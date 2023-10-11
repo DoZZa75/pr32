@@ -1,0 +1,165 @@
+.header {
+  display: flex;
+  width: 1000px;
+  justify-content: center;
+}
+
+.circle {
+  width: 35px;
+  height: 35px;
+  border-radius: 50px 50px;
+  background: black;
+}
+
+.rectangle_1 {
+  width: 50px;
+  height: 15px;
+  margin-left: 10px;
+  margin-top: 8px;
+  background: black;
+}
+
+.rectangle_2 {
+  width: 90px;
+  height: 30px;
+  margin-left: 400px;
+  margin-top: 8px;
+  background: black;
+}
+
+.rectangle_3 {
+  width: 90px;
+  height: 30px;
+  margin-left: 10px;
+  margin-top: 8px;
+  background: black;
+}
+
+.rectangle_4 {
+  width: 90px;
+  height: 30px;
+  margin-left: 10px;
+  margin-top: 8px;
+  background: black;
+}
+
+.rectangle_5 {
+  width: 90px;
+  height: 30px;
+  margin-left: 10px;
+  margin-top: 8px;
+  background: black;
+}
+
+.leveling {
+  display: flex;
+  flex-direction: row;
+}
+
+.body {
+  max-width: 600px;
+}
+
+.circle_2 {
+  width: 250px;
+  height: 250px;
+  border-radius: 200px 200px;
+  margin-left: 50px;
+  margin-top: 30px;
+  background: black;
+}
+
+.title {
+  margin-left: 50px;
+}
+
+.text {
+  margin-left: 50px;
+  font-size: 17px;
+}
+
+.middle{
+  display: flex;
+}
+
+.middlerect{
+  display: flex;
+  flex-direction: column;
+  max-width: 33%;
+}
+
+.rectangle_6 {
+  width: 250px;
+  height: 150px;
+  margin-top: 15px;
+  margin-left: 50px;
+  background: black;
+}
+
+.rectangle_7 {
+  width: 250px;
+  height: 150px;
+  margin-top: 60px;
+  margin-left: 50px;
+  background: black;
+}
+
+.rectangle_8 {
+  width: 250px;
+  height: 150px;
+  margin-top: 60px;
+  margin-left: 50px;
+  background: black;
+}
+
+.moretext {
+    display: flex;
+    flex-direction: column;
+    margin-top: -10px;
+    font-size: 17px;
+    margin-left: 20px;
+    width: 400px;
+}
+
+.combo{
+    width:1000px;
+    flex-direction: column;
+}
+
+.rectangle8 {
+    width: 40px;
+    height: 40px;
+    background: black;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+
+.rectangle9 {
+    width: 40px;
+    height: 40px;
+    background: black;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+
+.rectangle10 {
+    width: 40px;
+    height: 40px;
+    background: black;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+
+.abvgd{
+    display: flex;
+    align-items: flex-start;
+}
+.p{
+    max-width: 100px;
+}
+.obshag{
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 0 10px;
+    max-width: 250px;
+}
